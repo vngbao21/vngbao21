@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Vo Ngoc Gia Bao</h1>
 <h3 align="center">I am an enthusiastic third year student studying Software Engineering and am very interested in Mobile Website and Application Development. I am trying to absorb and accumulate knowledge and expand my skills every day.</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/vngbao21/vngbao21/assets/94679748/9220a8c9-a0c3-4799-951f-56097621af13"> 
+<img align="right" alt="coding" width="400" src="https://github.com/vngbao21/vngbao21/assets/94679748/6cab66a1-26f5-4b55-8e62-ce77567f7091"> 
 
 - 🌱 I’m currently learning **Mobile and Frameworks**
 
