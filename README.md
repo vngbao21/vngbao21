@@ -1,7 +1,7 @@
 <img align="center" alt="coding" src="https://github.com/vngbao21/vngbao21/assets/94679748/aab8577c-7373-4c2a-9c22-c55d89ecfd43"> 
 
 <h1 align="center">Hi 👋, I'm Vo Ngoc Gia Bao</h1>
-<h3 align="center">I am an enthusiastic third year student studying Software Engineering and am very interested in Mobile Website and Application Development. I am trying to absorb and accumulate knowledge and expand my skills every day.er from India</h3>
+<h3 align="center">I am an enthusiastic third year student studying Software Engineering and am very interested in Mobile Website and Application Development. I am trying to absorb and accumulate knowledge and expand my skills every day.</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/vngbao21/vngbao21/assets/94679748/9220a8c9-a0c3-4799-951f-56097621af13"> 
 
